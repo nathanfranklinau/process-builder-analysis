@@ -43,15 +43,15 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Text_1__c</field>
+                <field>Text1__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Text_2__c</field>
+                <field>Text2__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Text_3__c</field>
+                <field>Text3__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
