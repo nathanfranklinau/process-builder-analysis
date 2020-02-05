@@ -1,0 +1,18 @@
+{
+  "orgName": "nathan-2",
+  "edition": "Developer",
+  "features": [
+    "API",
+    "Communities",
+    "ExternalSharing",
+    "PlatformCache",
+    "ServiceCloud",
+    "SiteDotCom",
+    "Sites",
+    "ServiceCloud",
+    "LightningServiceConsole",
+    "Knowledge",
+    "Entitlements",
+    "LiveAgent"
+  ]
+}
